@@ -26,6 +26,7 @@ src/main/java/com/automation
 │    ├── WebDriverHandler.java                       # Common WebDriver Actions
 │    ├── LoggerUtil.java                             # Log4J2 Logger (Singleton)
 │    ├── RetryExtension.java                         # Retry Mechanism for JUnit Failures
+
 src/test/java/
 │─── com/automation/runner/testRunner
 │─── resources/                                      # Configuration & Test Data
@@ -33,7 +34,7 @@ src/test/java/
 │        │─── Browser/DriverConfig.properties        # Browser Configuration
 │        │─── Database/DB.properties                 # Database Configuration
 │        │─── LoginCreds/Credentials.properties      # Login Creds
-│        │─── UI/ApplicationURL.properties           # List of Urls 
+│        │─── UI/ApplicationURL.properties           # List of URLs 
 │    ├── features/E-commerce/flipkart.feature        # Cucumber Feature Files
 │
 │─── logs/
