@@ -16,7 +16,7 @@ src/main/java/com/automation
 │
 │─── stepdefs/                                       # Step Definitions for Cucumber
 │    ├── Hooks.java                                  # Cucumber Hooks (Before/After Test Setup)
-|    ├── ApplicationLoginSteps.java
+│    ├── ApplicationLoginSteps.java
 │
 │─── tests/                                          # JUnit Test Cases
 │    ├── DriverTest.java                             # Example Test Case for JUnit
