@@ -17,7 +17,8 @@ src/main/java/com/automation
 │─── stepdefs/                                       # Step Definitions for Cucumber
 │    ├── Hooks.java                                  # Cucumber Hooks (Before/After Test Setup)
 │    ├── ApplicationLoginSteps.java
-│
+├──  pageobjects/
+│    ├── ApplicationLoginPage.java
 │─── utils/                                          # Utility Classes
 │    ├── ConfigReader.java                           # Reads Configuration from Properties
 │    ├── WebDriverHandler.java                       # Common WebDriver Actions
