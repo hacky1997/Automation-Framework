@@ -1,6 +1,7 @@
-package com.automation.interview.pageobjects;
+package com.automation.interview.stepdefs;
 
 import com.automation.interview.base.WebDriverManager;
+import com.automation.interview.pageobjects.ApplicationLoginPage;
 import com.automation.interview.utils.LoggerUtil;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
