@@ -18,9 +18,6 @@ src/main/java/com/automation
 │    ├── Hooks.java                                  # Cucumber Hooks (Before/After Test Setup)
 │    ├── ApplicationLoginSteps.java
 │
-│─── tests/                                          # JUnit Test Cases
-│    ├── DriverTest.java                             # Example Test Case for JUnit
-│
 │─── utils/                                          # Utility Classes
 │    ├── ConfigReader.java                           # Reads Configuration from Properties
 │    ├── WebDriverHandler.java                       # Common WebDriver Actions
