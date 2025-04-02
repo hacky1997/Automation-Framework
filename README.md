@@ -39,3 +39,24 @@ src/test/java/
 │    ├── log4j2.xml                                  # Logs for Test Execution
 │    ├── application.log                             # Log4J2 logs
 ```
+
+
+## Test Estimation
+To get the exact hours, atfirst we need to identify the exact number of poms available in that module or flow.
+Then we have to understand how many pages are already existing and how many needs to be added.
+
+Make a sheet handy and formulated.
+
+## Project types
+Pojo with lombok vs Builder with testNG.
+
+## Project necessary things
+Shared points
+Pipeline handling
+Smoke scope
+Priorities build Env to run Smoke
+SQL Data validation
+ADO queries to get Test scenarios
+Code Repository 
+In scope softwares
+Environments
